@@ -13,3 +13,4 @@ FITUR:
 - Room Matchmaking: Ruang tunggu pemain sebelum permainan dimulai. Permainan akan dimulai ketika jumlah pemain = 4 atau dapat dimulai langsung oleh host tanpa menunggu 4 pemain.
 
 Figma:
+https://www.figma.com/design/wrlQZXcqFOEZmvRpMPqwuB/mppl?node-id=0-1&t=7gSdNYCUMYPrynMW-1
