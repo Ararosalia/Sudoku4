@@ -14,3 +14,6 @@ FITUR:
 
 Figma:
 https://www.figma.com/design/wrlQZXcqFOEZmvRpMPqwuB/mppl?node-id=0-1&t=7gSdNYCUMYPrynMW-1
+
+Prototype figma:
+https://www.figma.com/proto/wrlQZXcqFOEZmvRpMPqwuB/sudoku?page-id=0%3A1&node-id=3-4&viewport=23%2C-306%2C0.55&t=zcVzUakzHmPW0LCv-1&scaling=scale-down&content-scaling=fixed
